@@ -201,21 +201,21 @@ def sublista():
                                               
 def main():
     
-    #print(regressiva())
-    #print(metade())
-    #print(leitura())
-    #print(ocorrencias())
-    #print(máximo())
-    #print(posição_máximo())
-    #print(inverter())
-    #print(fibonacci())
-    #ordenada_abcissa()
-    #print(k_múltiplos())
-    #médias()
-    #temperaturas()
-    #print(iguais())
-    #salários()
-    #print(sublista())
+    print(regressiva())
+    print(metade())
+    print(leitura())
+    print(ocorrencias())
+    print(máximo())
+    print(posição_máximo())
+    print(inverter())
+    print(fibonacci())
+    ordenada_abcissa()
+    print(k_múltiplos())
+    médias()
+    temperaturas()
+    print(iguais())
+    salários()
+    print(sublista())
     
     
     
